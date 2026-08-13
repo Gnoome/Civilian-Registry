@@ -38,7 +38,6 @@ Civilian-Registry/
 │   │   ├── remove_person.sql
 │   │   └── update_person.sql
 │   │
-│   ├── Database.java
 │   ├── Database_Manager.java
 │   ├── Menu.java
 │   └── Person.java
